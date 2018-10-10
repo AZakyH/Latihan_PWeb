@@ -1,0 +1,16 @@
+body
+{
+	background: lightgrey;
+}
+
+h1, h2, h3
+{
+	text-align: center;
+}
+
+.menu
+{
+	background: white;
+	display: table;
+	padding: 0px 4px;
+}
